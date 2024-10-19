@@ -38,7 +38,10 @@ body{
     font-weight: 800;
 }
 
+.navbar-nav li a{
+    font-family: "puppy";
 
+}
 
 .main-row {
     position: absolute;
