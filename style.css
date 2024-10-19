@@ -19,61 +19,26 @@ html body section {
     background-repeat: repeat;
 }
 
-.gum {
-    font-family: gum !important;
-}
+
 
 @font-face {
-    font-family: gum;
-    src: url(./font/gum.otf);
+    font-family: "puppy";
+    src: url(./font/Milk\ Kids.otf);
 }
 
-.har {
-    font-family: har !important;
+
+body{
+    font-family: "puppy";
 }
 
-@font-face {
-    font-family: har;
-    src: url(./font/HARLOWSI.TTF);
-}
-
-.gran {
-    font-family: gran !important;
-}
-
-@font-face {
-    font-family: gran;
-    src: url(./font/gran.ttf);
-}
-
-.impactf {
-    font-family: impactf !important;
-}
-
-@font-face {
-    font-family: impactf;
-    src: url(./font/impact.ttf);
-}
-
-.robo-m {
-    font-family: robo-m !important;
-}
-
-@font-face {
-    font-family: robo-m;
-    src: url(./font/Roboto-Medium.ttf);
-}
 
 .angel {
-    font-family: angel !important;
+    font-family: "puppy";
     font-size: 22px;
     font-weight: 800;
 }
 
-@font-face {
-    font-family: angel;
-    src: url(./font/AngelArms-lp1d.ttf);
-}
+
 
 .main-row {
     position: absolute;
@@ -435,7 +400,7 @@ html body section {
     color: #212529 !important;
     cursor: pointer;
     display: inline-block;
-    font-family: din-round, sans-serif;
+
     font-size: 15px;
     font-weight: 700;
     letter-spacing: .8px;
